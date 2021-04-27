@@ -53,7 +53,8 @@
     height: 50px;
     border-radius: 200px;
     left: 400px;
-    background-color: blue;
+    background-color: darkgray;
+    border: 2px solid yellow;
     position: absolute;
 }
 
@@ -62,7 +63,8 @@
     height: 50px;
     border-radius: 200px;
     left: 250px;
-    background-color: blue;
+    background-color: darkgray;
+    border: 2px solid yellow;
     position: absolute;
 }
 
@@ -148,13 +150,13 @@
 }
 
 .eye{
-    width: 100px;
-    height: 30px;
-    border: red double 30px;
+    width: 50px;
+    height: 20px;
+    border: red dotted 12px;
     border-radius: 50px;
-    left: 260px;
-    top: 100px;
-    background-color: yellow;
+    left: 310px;
+    top: 120px;
+    background-color: pink;
     position: absolute;
 }
 
